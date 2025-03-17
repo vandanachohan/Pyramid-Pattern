@@ -12,7 +12,6 @@ Simple and easy-to-understand code.
 Example Output
 For a pyramid height of 5, the output will look like this:
 
-
     *
    ***
   *****
